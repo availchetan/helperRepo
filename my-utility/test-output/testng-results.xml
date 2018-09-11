@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite Utility" duration-ms="108282" started-at="2018-09-01T12:33:05Z" finished-at="2018-09-01T12:34:53Z">
+    <groups>
+    </groups>
+    <test name="Utility Tests" duration-ms="108282" started-at="2018-09-01T12:33:05Z" finished-at="2018-09-01T12:34:53Z">
+      <class name="com.mycompany.app.MyUtility">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="setup" is-config="true" duration-ms="28379" started-at="2018-09-01T12:33:05Z" finished-at="2018-09-01T12:33:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getButtons()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getButtons" duration-ms="23957" started-at="2018-09-01T12:33:33Z" finished-at="2018-09-01T12:33:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getButtons -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:33:59Z" finished-at="2018-09-01T12:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getCheckBoxes()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getCheckBoxes" duration-ms="10157" started-at="2018-09-01T12:33:59Z" finished-at="2018-09-01T12:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCheckBoxes -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:10Z" finished-at="2018-09-01T12:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getDropDowns()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getDropDowns" duration-ms="10022" started-at="2018-09-01T12:34:10Z" finished-at="2018-09-01T12:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDropDowns -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="1" started-at="2018-09-01T12:34:21Z" finished-at="2018-09-01T12:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getForms()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getForms" duration-ms="141" started-at="2018-09-01T12:34:21Z" finished-at="2018-09-01T12:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getForms -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="1" started-at="2018-09-01T12:34:23Z" finished-at="2018-09-01T12:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getFrames()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getFrames" duration-ms="10045" started-at="2018-09-01T12:34:23Z" finished-at="2018-09-01T12:34:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFrames -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:34Z" finished-at="2018-09-01T12:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getImages()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getImages" duration-ms="2920" started-at="2018-09-01T12:34:34Z" finished-at="2018-09-01T12:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getImages -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:38Z" finished-at="2018-09-01T12:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getLinks()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getLinks" duration-ms="1569" started-at="2018-09-01T12:34:38Z" finished-at="2018-09-01T12:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLinks -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:40Z" finished-at="2018-09-01T12:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getRadioButtons()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getRadioButtons" duration-ms="10050" started-at="2018-09-01T12:34:40Z" finished-at="2018-09-01T12:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRadioButtons -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:51Z" finished-at="2018-09-01T12:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getTables()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="getTables" duration-ms="123" started-at="2018-09-01T12:34:51Z" finished-at="2018-09-01T12:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTables -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:52Z" finished-at="2018-09-01T12:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="getTextboxes()[pri:1, instance:com.mycompany.app.MyUtility@d44fc21]" name="getTextboxes" duration-ms="163" started-at="2018-09-01T12:34:52Z" finished-at="2018-09-01T12:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTextboxes -->
+        <test-method status="PASS" signature="navigateHome()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="navigateHome" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:53Z" finished-at="2018-09-01T12:34:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHome -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.mycompany.app.MyUtility@d44fc21]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2018-09-01T12:34:53Z" finished-at="2018-09-01T12:34:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.mycompany.app.MyUtility -->
+    </test> <!-- Utility Tests -->
+  </suite> <!-- Suite Utility -->
+</testng-results>

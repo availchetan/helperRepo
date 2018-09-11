@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Utils.Listener"/>
+    <listener class-name="Resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Smoke Tests(failed)">
+    <classes>
+      <class name="com.mycompany.app.CopyTest">
+        <methods>
+          <include name="MeaningfulName2"/>
+          <include name="navigateHome"/>
+          <include name="closeBrowser"/>
+          <include name="MeaningfulName"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mycompany.app.CopyTest -->
+    </classes>
+  </test> <!-- Smoke Tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->
